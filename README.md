@@ -1,6 +1,6 @@
 # Phonopy-Spectroscopy
 
-Phonopy-Spectroscopy is a project to add the capability to simulate vibrational spectra to the Phonopy code.[[1](#Ref1)]
+Phonopy-Spectroscopy is a project to add the capability to simulate vibrational spectra to the Phonopy code.
 The software package consists of a Python module, `SpectroscoPy`, along with a set of command-line scripts for working with output from Phonopy and VASP.
 This project was developed by Jonathan M. Skelton, the link to the original repository is [here](https://github.com/JMSkelton/Phonopy-Spectroscopy).
 
